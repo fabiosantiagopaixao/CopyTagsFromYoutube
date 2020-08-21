@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Copy Tags From Youtube</string>
+    <string name="action_settings">Settings</string>
+    <string name="tags">Suas tags [teste, teste1]</string>
+    <string name="url_video">Insira a URL do Youtube</string>
+    <string name="tags_baixadas">Tags baixadas</string>
+    <string name="btn_baixar">Baixar Tags</string>
+    <string name="erro_baixar_tags">Erro ao baixar as tags, verifique a URL</string>
+    <string name="erro_copiar_tags">As tags não foram baixadas, logo não foi possivel copiar</string>
+    <string name="tags_copiadas">Tags copiadas</string>
+    <string name="baixando">Baixando</string>
+</resources>
